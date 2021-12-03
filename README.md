@@ -1,2 +1,2 @@
-# DAA_Practicals
+# DAA_Programs
 Algorithms
